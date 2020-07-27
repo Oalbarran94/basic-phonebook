@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "name": "Osman",
+      "lastName": "Albarran",
+      "number": "967571036",
+      "relation": "friend",
+      "favorite": false,
+      "id": 1
+    },
+    {
+      "name": "Nancy",
+      "lastName": "Albarran",
+      "number": "951753",
+      "relation": "relative",
+      "favorite": false,
+      "id": 2
+    }
+  ]
+}

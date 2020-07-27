@@ -1,0 +1,8 @@
+.fa:hover {
+  color: red;
+}
+
+.fa {
+  cursor: pointer;
+  user-select: none;
+}
